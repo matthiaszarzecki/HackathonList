@@ -24,38 +24,38 @@ A list of all Hackathons, Jams and Competitions I attended
 * 7DRL 2013 - The Acheron (unfinished)
 * Amaze 2012 - Unstoppaball DX
 * Amaze 2016 - ShortbowVR
-* Berlin Mini Jam Apr 2014 - IrrElephants
-* Berlin Mini Jam Apr 2015 - Sandwich Assembly Rhino Tank
-* Berlin Mini Jam Apr 2016 - Be Bruce Wayne
-* Berlin Mini Jam Aug 2012 - (no game made)
-* Berlin Mini Jam Aug 2014 - (no game made)
-* Berlin Mini Jam Aug 2015 - Pegakitty Saves the World!
-* Berlin Mini Jam Dec 2015 - ShortbowVR
-* Berlin Mini Jam Dez 2012 - Boxy the Boxcat Steals the World
-* Berlin Mini Jam Feb 2013 - (no game made)
-* Berlin Mini Jam Feb 2015 - (no game made)
-* Berlin Mini Jam Feb 2016 - ShortbowVR
-* Berlin Mini Jam Jan 2013 - Fireball Muffin Pony Adventure
-* Berlin Mini Jam Jan 2016 - ShortbowVR
-* Berlin Mini Jam Jul 2012 - Trainkiller
-* Berlin Mini Jam Jul 2015 - (no game made), also organized the event
-* Berlin Mini Jam Jun 2015 - VR-Tests, Improved A* Algorithm, al organized the event
-* Berlin Mini Jam Mar 2013 - (no game made)
-* Berlin Mini Jam Mar 2015 - Ultra-Kittens VS Space-Penguins
-* Berlin Mini Jam Mar 2016 - (no game made)
-* Berlin Mini Jam May 2014 - (no game made)
-* Berlin Mini Jam May 2015 - (no game made), also organized the event
-* Berlin Mini Jam May 2016 - (no game made)
-* Berlin Mini Jam Nov 2012 - The Acheron
-* Berlin Mini Jam Nov 2013 - (no game made)
-* Berlin Mini Jam Nov 2014 - Battlefleet Text Command
-* Berlin Mini Jam Nov 2015 - ShortbowVR
-* Berlin Mini Jam Oct 2015 - Totally Serious Bear-Solitaire
-* Berlin Mini Jam Okt 2012 - Shakes-Sphere against the World
-* Berlin Mini Jam Okt 2013 - (no game made)
-* Berlin Mini Jam Sep 2012 - (no game made)
-* Berlin Mini Jam Sep 2014 - (no game made)
-* Berlin Mini Jam Sep 2015 - (no game made)
+* Berlin Mini 2012 Jam 07 - Trainkiller
+* Berlin Mini 2012 Jam 09 - (no game made)
+* Berlin Mini 2012 Jam 10 - Shakes-Sphere against the World
+* Berlin Mini 2012 Jam 11 - The Acheron
+* Berlin Mini 2013 Jam 01 - Fireball Muffin Pony Adventure
+* Berlin Mini 2013 Jam 02 - (no game made)
+* Berlin Mini 2013 Jam 03 - (no game made)
+* Berlin Mini 2013 Jam 10 - (no game made)
+* Berlin Mini 2013 Jam 11 - (no game made)
+* Berlin Mini 2014 Jam 05 - (no game made)
+* Berlin Mini 2014 Jam 09 - (no game made)
+* Berlin Mini 2014 Jam 11 - Battlefleet Text Command
+* Berlin Mini 2015 Jam 02 - (no game made)
+* Berlin Mini 2015 Jam 03 - Ultra-Kittens VS Space-Penguins
+* Berlin Mini 2015 Jam 05 - (no game made), also organized the event
+* Berlin Mini 2015 Jam 06 - VR-Tests, Improved A-Star Algorithm, also organized the event
+* Berlin Mini 2015 Jam 07 - (no game made), also organized the event
+* Berlin Mini 2015 Jam 09 - (no game made)
+* Berlin Mini 2015 Jam 10 - Totally Serious Bear-Solitaire
+* Berlin Mini 2015 Jam 11 - ShortbowVR
+* Berlin Mini 2016 Jam 01 - ShortbowVR
+* Berlin Mini 2016 Jam 02 - ShortbowVR
+* Berlin Mini 2016 Jam 03 - (no game made)
+* Berlin Mini 2016 Jam 05 - (no game made)
+* Berlin Mini Jam 2012 08 - (no game made)
+* Berlin Mini Jam 2012 12 - Boxy the Boxcat Steals the World
+* Berlin Mini Jam 2014 04 - IrrElephants
+* Berlin Mini Jam 2014 08 - (no game made)
+* Berlin Mini Jam 2015 04 - Sandwich Assembly Rhino Tank
+* Berlin Mini Jam 2015 08 - Pegakitty Saves the World!
+* Berlin Mini Jam 2015 12 - ShortbowVR
+* Berlin Mini Jam 2016 04 - Be Bruce Wayne
 * Berlin Ouya Jam 2013 - Strike Craft Copperhead
 * Deutscher Spielepreis 2012 - Badass Locomotive
 * Fuck This Jam 01 - Super Music Racer
@@ -84,9 +84,9 @@ A list of all Hackathons, Jams and Competitions I attended
 * Ludum Dare October Challenge 2012 - Vertical Void DX
 * Ludum Dare October Challenge 2014 - POND
 * Ludum Dare October Challenge 2015 - Totally Serious Bear-Solitaire
-* Mini Ludum Dare 26            - Dirt Driller
-* Mini Ludum Dare 29            - Be Afraid! (aborted)
-* Mini Ludum Dare 31            - Vertical Void
+* Mini Ludum Dare 26 - Dirt Driller
+* Mini Ludum Dare 29 - Be Afraid! (aborted)
+* Mini Ludum Dare 31 - Vertical Void
 * Mini Ludum Dare 46 (SharkJam) - Sharkasm, also organized the event
 * Molyjam 01 - Let's Protest!
 * Molyjam 02 - (aborted)

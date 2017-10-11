@@ -95,6 +95,7 @@ A list of all Hackathons, Jams and Competitions I attended
 * Unity Awards 2016 - ShortbowVR
 * Unity Awards 2016 - Waterproof
 * Unity Flash in a Flash - Rubidium
+* VR Jam 2013 - (no game made)
 * VRNow 2016 - ShortbowVR
 * Zero Hour Jam 01 - Push The Button, Gain a level!
 * Zero Hour Jam 02 - Sad Kitty in Space

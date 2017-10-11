@@ -24,38 +24,38 @@ A list of all Hackathons, Jams and Competitions I attended
 * 7DRL 2013 - The Acheron (unfinished)
 * Amaze 2012 - Unstoppaball DX
 * Amaze 2016 - ShortbowVR
-* Berlin Mini 2012 Jam 07 - Trainkiller
-* Berlin Mini 2012 Jam 09 - (no game made)
-* Berlin Mini 2012 Jam 10 - Shakes-Sphere against the World
-* Berlin Mini 2012 Jam 11 - The Acheron
-* Berlin Mini 2013 Jam 01 - Fireball Muffin Pony Adventure
-* Berlin Mini 2013 Jam 02 - (no game made)
-* Berlin Mini 2013 Jam 03 - (no game made)
-* Berlin Mini 2013 Jam 10 - (no game made)
-* Berlin Mini 2013 Jam 11 - (no game made)
-* Berlin Mini 2014 Jam 05 - (no game made)
-* Berlin Mini 2014 Jam 09 - (no game made)
-* Berlin Mini 2014 Jam 11 - Battlefleet Text Command
-* Berlin Mini 2015 Jam 02 - (no game made)
-* Berlin Mini 2015 Jam 03 - Ultra-Kittens VS Space-Penguins
-* Berlin Mini 2015 Jam 05 - (no game made), also organized the event
-* Berlin Mini 2015 Jam 06 - VR-Tests, Improved A-Star Algorithm, also organized the event
-* Berlin Mini 2015 Jam 07 - (no game made), also organized the event
-* Berlin Mini 2015 Jam 09 - (no game made)
-* Berlin Mini 2015 Jam 10 - Totally Serious Bear-Solitaire
-* Berlin Mini 2015 Jam 11 - ShortbowVR
-* Berlin Mini 2016 Jam 01 - ShortbowVR
-* Berlin Mini 2016 Jam 02 - ShortbowVR
-* Berlin Mini 2016 Jam 03 - (no game made)
-* Berlin Mini 2016 Jam 05 - (no game made)
+* Berlin Mini Jam 2012 07 - Trainkiller
 * Berlin Mini Jam 2012 08 - (no game made)
+* Berlin Mini Jam 2012 09 - (no game made)
+* Berlin Mini Jam 2012 10 - Shakes-Sphere against the World
+* Berlin Mini Jam 2012 11 - The Acheron
 * Berlin Mini Jam 2012 12 - Boxy the Boxcat Steals the World
+* Berlin Mini Jam 2013 01 - Fireball Muffin Pony Adventure
+* Berlin Mini Jam 2013 02 - (no game made)
+* Berlin Mini Jam 2013 03 - (no game made)
+* Berlin Mini Jam 2013 10 - (no game made)
+* Berlin Mini Jam 2013 11 - (no game made)
 * Berlin Mini Jam 2014 04 - IrrElephants
+* Berlin Mini Jam 2014 05 - (no game made)
 * Berlin Mini Jam 2014 08 - (no game made)
+* Berlin Mini Jam 2014 09 - (no game made)
+* Berlin Mini Jam 2014 11 - Battlefleet Text Command
+* Berlin Mini Jam 2015 02 - (no game made)
+* Berlin Mini Jam 2015 03 - Ultra-Kittens VS Space-Penguins
 * Berlin Mini Jam 2015 04 - Sandwich Assembly Rhino Tank
+* Berlin Mini Jam 2015 05 - (no game made), also organized the event
+* Berlin Mini Jam 2015 06 - VR-Tests, Improved A-Star Algorithm, also organized the event
+* Berlin Mini Jam 2015 07 - (no game made), also organized the event
 * Berlin Mini Jam 2015 08 - Pegakitty Saves the World!
+* Berlin Mini Jam 2015 09 - (no game made)
+* Berlin Mini Jam 2015 10 - Totally Serious Bear-Solitaire
+* Berlin Mini Jam 2015 11 - ShortbowVR
 * Berlin Mini Jam 2015 12 - ShortbowVR
+* Berlin Mini Jam 2016 01 - ShortbowVR
+* Berlin Mini Jam 2016 02 - ShortbowVR
+* Berlin Mini Jam 2016 03 - (no game made)
 * Berlin Mini Jam 2016 04 - Be Bruce Wayne
+* Berlin Mini Jam 2016 05 - (no game made)
 * Berlin Ouya Jam 2013 - Strike Craft Copperhead
 * Deutscher Spielepreis 2012 - Badass Locomotive
 * Fuck This Jam 01 - Super Music Racer

@@ -103,7 +103,9 @@ A list of all Hackathons, Jams and Competitions I attended
 * Evonik Hackathon - Organizer & Judge
 * Indie Speed Run 2012 - (no game made)
 * HTW Uni(versi)ty Tour - (aborted)
-* IndieCade 2012
-* Primi 2012
-* Epistle 3 Jam - ongoing
-* Self-Care Jam 2 - planned
+* IndieCade 2012 - Unstoppaball DX
+* Primi 2012 - Unstoppaball DX
+* Epistle 3 Jam (no game made)
+* Self-Care Jam 2 - ongoing
+* hailingfrequency.com 2010 short-story-contest - Encounter, 10th place out of 200
+* National Novelist Writer's Month 2013 - Machine of Death Story (unfinished)

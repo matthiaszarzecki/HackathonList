@@ -20,42 +20,42 @@ A list of all Hackathons, Jams and Competitions I attended
 * 1 Game a Month - Trevor the Tortoise
 * 1 Game a Month - Triangle Fractal Generator
 * 1 Game a Month - Ultra-Kittens VS Space-Penguins
-* 7DFPS 01 - Korolev Station
+* 7DFPS 01 - Korolev Station (unfinished)
 * 7DRL 2013 - The Acheron (unfinished)
 * Amaze 2012 - Unstoppaball DX
 * Amaze 2016 - ShortbowVR
 * Berlin Mini Jam 2012 07 - Trainkiller
-* Berlin Mini Jam 2012 08 - (no game made)
-* Berlin Mini Jam 2012 09 - (no game made)
+* Berlin Mini Jam 2012 08 - (unfinished)
+* Berlin Mini Jam 2012 09 - (unfinished)
 * Berlin Mini Jam 2012 10 - Shakes-Sphere against the World
 * Berlin Mini Jam 2012 11 - The Acheron
 * Berlin Mini Jam 2012 12 - Boxy the Boxcat Steals the World
 * Berlin Mini Jam 2013 01 - Fireball Muffin Pony Adventure
-* Berlin Mini Jam 2013 02 - (no game made)
-* Berlin Mini Jam 2013 03 - (no game made)
-* Berlin Mini Jam 2013 10 - (no game made)
-* Berlin Mini Jam 2013 11 - (no game made)
+* Berlin Mini Jam 2013 02 - (unfinished)
+* Berlin Mini Jam 2013 03 - (unfinished)
+* Berlin Mini Jam 2013 10 - (unfinished)
+* Berlin Mini Jam 2013 11 - (unfinished)
 * Berlin Mini Jam 2014 04 - IrrElephants
-* Berlin Mini Jam 2014 05 - (no game made)
-* Berlin Mini Jam 2014 08 - (no game made)
-* Berlin Mini Jam 2014 09 - (no game made)
+* Berlin Mini Jam 2014 05 - (unfinished)
+* Berlin Mini Jam 2014 08 - (unfinished)
+* Berlin Mini Jam 2014 09 - (unfinished)
 * Berlin Mini Jam 2014 11 - Battlefleet Text Command
-* Berlin Mini Jam 2015 02 - (no game made)
+* Berlin Mini Jam 2015 02 - (unfinished)
 * Berlin Mini Jam 2015 03 - Ultra-Kittens VS Space-Penguins
-* Berlin Mini Jam 2015 04 - Sandwich Assembly Rhino Tank
-* Berlin Mini Jam 2015 05 - (no game made), also organized the event
+* Berlin Mini Jam 2015 04 - Sandwich Assembly Rhinoceros Tank
+* Berlin Mini Jam 2015 05 - (unfinished), also organized the event
 * Berlin Mini Jam 2015 06 - VR-Tests, Improved A-Star Algorithm, also organized the event
-* Berlin Mini Jam 2015 07 - (no game made), also organized the event
+* Berlin Mini Jam 2015 07 - (unfinished), also organized the event
 * Berlin Mini Jam 2015 08 - Pegakitty Saves the World!
-* Berlin Mini Jam 2015 09 - (no game made)
+* Berlin Mini Jam 2015 09 - (unfinished)
 * Berlin Mini Jam 2015 10 - Totally Serious Bear-Solitaire
 * Berlin Mini Jam 2015 11 - ShortbowVR
 * Berlin Mini Jam 2015 12 - ShortbowVR
 * Berlin Mini Jam 2016 01 - ShortbowVR
 * Berlin Mini Jam 2016 02 - ShortbowVR
-* Berlin Mini Jam 2016 03 - (no game made)
+* Berlin Mini Jam 2016 03 - (unfinished)
 * Berlin Mini Jam 2016 04 - Be Bruce Wayne
-* Berlin Mini Jam 2016 05 - (no game made)
+* Berlin Mini Jam 2016 05 - (unfinished)
 * Berlin Ouya Jam 2013 - Strike Craft Copperhead
 * Deutscher Spielepreis 2012 - Badass Locomotive
 * Fuck This Jam 01 - Super Music Racer
@@ -76,7 +76,7 @@ A list of all Hackathons, Jams and Competitions I attended
 * Ludum Dare 25 Warmup - Boxy the Boxcat Steals the World
 * Ludum Dare 26 - Balls Balls Balls
 * Ludum Dare 27 - Every 10 Seconds a Kitten Dies
-* Ludum Dare 28 - (aborted)
+* Ludum Dare 28 - (unfinished)
 * Ludum Dare 29 - FoxyTank
 * Ludum Dare 30 - Spacecat Marines
 * Ludum Dare 33 - Pegakitty Saves the World!
@@ -85,11 +85,11 @@ A list of all Hackathons, Jams and Competitions I attended
 * Ludum Dare October Challenge 2014 - POND
 * Ludum Dare October Challenge 2015 - Totally Serious Bear-Solitaire
 * Mini Ludum Dare 26 - Dirt Driller
-* Mini Ludum Dare 29 - Be Afraid! (aborted)
+* Mini Ludum Dare 29 - Be Afraid! (unfinished)
 * Mini Ludum Dare 31 - Vertical Void
 * Mini Ludum Dare 46 (SharkJam) - Sharkasm, also organized the event
 * Molyjam 01 - Let's Protest!
-* Molyjam 02 - (aborted)
+* Molyjam 02 - An Elephant Never Forgets (To Kill!) (unfinished)
 * Pirate Kart V - Vertical Void DX
 * Unity Awards 2011 - Unstoppaball DX, Finalist
 * Unity Awards 2016 - ShortbowVR
@@ -99,14 +99,14 @@ A list of all Hackathons, Jams and Competitions I attended
 * VRNow 2016 - ShortbowVR
 * Zero Hour Jam 01 - Push The Button, Gain a level!
 * Zero Hour Jam 02 - Sad Kitty in Space
-* Zero Hour Jam 03 - (no game made)
-* Evonik Hackathon - Organizer & Judge
-* Indie Speed Run 2012 - (no game made)
-* HTW Uni(versi)ty Tour - (aborted)
+* Zero Hour Jam 03 - (unfinished)
+* Evonik Hack The Giant Hackathon - Organizer & Judge
+* Indie Speed Run 2012 - (unfinished)
+* HTW Uni(versi)ty Tour - (unfinished)
 * IndieCade 2012 - Unstoppaball DX
 * Primi 2012 - Unstoppaball DX
-* Epistle 3 Jam (no game made)
-* Self-Care Jam 2 - ongoing
+* Epistle 3 Jam - (unfinished)
+* Self-Care Jam 2 - (unfinished)
 * hailingfrequency.com 2010 short-story-contest - Encounter, 10th place out of 200
 * National Novelist Writer's Month 2013 - Machine of Death Story (unfinished)
 * IGF 2012 - Unstoppaball DX

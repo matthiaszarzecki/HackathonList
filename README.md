@@ -20,6 +20,7 @@ A list of all Hackathons, Jams and Competitions I attended
 * 1 Game a Month - Trevor the Tortoise
 * 1 Game a Month - Triangle Fractal Generator
 * 1 Game a Month - Ultra-Kittens VS Space-Penguins
+* 1 Game a Month Support Team - Every Month since Dec 2012 (62 times as of Feb 2018)
 * 7DFPS 01 - Korolev Station (unfinished)
 * 7DRL 2013 - The Acheron (unfinished)
 * Amaze 2012 - Unstoppaball DX
@@ -35,6 +36,9 @@ A list of all Hackathons, Jams and Competitions I attended
 * Berlin Mini Jam 2013 03 - (unfinished)
 * Berlin Mini Jam 2013 10 - (unfinished)
 * Berlin Mini Jam 2013 11 - (unfinished)
+* Berlin Mini Jam 2013 12 - (unfinished)
+* Berlin Mini Jam 2014 02 - (unfinished)
+* Berlin Mini Jam 2014 03 - (unfinished)
 * Berlin Mini Jam 2014 04 - IrrElephants
 * Berlin Mini Jam 2014 05 - (unfinished)
 * Berlin Mini Jam 2014 08 - (unfinished)

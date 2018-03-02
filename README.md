@@ -115,3 +115,4 @@ A list of all Hackathons, Jams and Competitions I attended
 * National Novelist Writer's Month 2013 - Machine of Death Story (unfinished)
 * IGF 2012 - Unstoppaball DX
 * IGF 2013 - Badass Locomotive
+* Unnamed Hackathon 2018 - Organization

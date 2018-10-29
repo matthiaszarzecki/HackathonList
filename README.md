@@ -1,4 +1,7 @@
 # HackathonList
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 A list of all Hackathons, Jams and Competitions I attended
 
 * 1 Game a Month - Balls Balls Balls

@@ -1,9 +1,6 @@
 # HackathonList
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://matthewongamedesign.wordpress.com/)   <p> <a href="https://twitter.com/intent/follow?screen_name=IcarusTyler">
-        <img src="https://img.shields.io/twitter/follow/shields_io.svg?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
-</p>
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://matthewongamedesign.wordpress.com/) 
 
 A list of all Hackathons, Jams and Competitions I attended
 

@@ -1,6 +1,6 @@
 # HackathonList
 
-![Total Number](https://img.shields.io/badge/Total_number-120-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/icarustyler.svg?style=social&label=Follow)](https://twitter.com/IcarusTyler)
+![Total Number](https://img.shields.io/badge/Total_number-121-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/icarustyler.svg?style=social&label=Follow)](https://twitter.com/IcarusTyler)
 
 A list of all Hackathons, Jams and Competitions I attended and/or organized
 
@@ -66,6 +66,7 @@ A list of all Hackathons, Jams and Competitions I attended and/or organized
 * Berlin Ouya Jam 2013 - Strike Craft Copperhead
 * Deutscher Spielepreis 2012 - Badass Locomotive
 * Fuck This Jam 01 - Super Music Racer
+* Fuck This Jam 02 - (unfinished)
 * GGJ 2011 Bremen - Ourob-Nom-Rous
 * GGJ 2012 Berlin - Trevor the Tortoise
 * GGJ 2013 Berlin - Magnificat - Anima Meow
@@ -98,16 +99,16 @@ A list of all Hackathons, Jams and Competitions I attended and/or organized
 * Molyjam 01 - Let's Protest!
 * Molyjam 02 - An Elephant Never Forgets (To Kill!) (unfinished)
 * Pirate Kart V - Vertical Void DX
-* Unity Awards 2011 - Unstoppaball DX, Finalist
+* Unity Awards 2011 - Unstoppaball DX (Finalist)
 * Unity Awards 2016 - ShortbowVR
 * Unity Awards 2016 - Waterproof
 * Unity Flash in a Flash - Rubidium
-* VR Jam 2013 - (no game made)
+* VR Jam 2013 - (unfinished)
 * VRNow 2016 - ShortbowVR
 * Zero Hour Jam 01 - Push The Button, Gain a level!
 * Zero Hour Jam 02 - Sad Kitty in Space
 * Zero Hour Jam 03 - (unfinished)
-* Evonik Hack The Giant Hackathon - Organizer & Judge
+* Evonik Hack The Giant Hackathon - Organization & Judge
 * Indie Speed Run 2012 - (unfinished)
 * HTW Uni(versi)ty Tour - (unfinished)
 * IndieCade 2012 - Unstoppaball DX
@@ -118,9 +119,9 @@ A list of all Hackathons, Jams and Competitions I attended and/or organized
 * National Novelist Writer's Month 2013 - Machine of Death Story (unfinished)
 * IGF 2012 - Unstoppaball DX
 * IGF 2013 - Badass Locomotive
-* Unnamed Hackathon 01 2018 - Organization
-* Unnamed Hackathon 02 2018 - Organization
-* Unnamed Internal Hackathon 01 2018 - Organization
-* Tomb Raider Jam Dec 2018 - (in progress)
-* Unnamed Hackathon 03 2018 - Consulting
-* Unnamed Hackathon 01 2019 - Organization
+* Unnamed Internal Hackathon 01 2018 - Consulting
+* Unnamed Internal Hackathon 02 2018 - Consulting
+* Unnamed Internal Hackathon 01 2018 - Consulting
+* Tomb Raider Jam Dec 2018 - (unfinished)
+* Unnamed Internal Hackathon 03 2018 - Consulting
+* Apple & IBM Hackathon & Aperto - Organization

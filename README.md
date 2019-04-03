@@ -47,7 +47,7 @@ A list of all Hackathons, Jams and Competitions I attended and/or organized
 * Berlin Mini Jam 2014 08 - (unfinished)
 * Berlin Mini Jam 2014 09 - (unfinished)
 * Berlin Mini Jam 2014 11 - Battlefleet Text Command
-* Berlin Mini Jam 2015 02 - (unfinished)
+* Berlin Mini Jam 2015 02 - A* Pathfinding Algorithm Demo
 * Berlin Mini Jam 2015 03 - Ultra-Kittens VS Space-Penguins
 * Berlin Mini Jam 2015 04 - Sandwich Assembly Rhinoceros Tank
 * Berlin Mini Jam 2015 05 - (unfinished), also organized the event
@@ -123,5 +123,5 @@ A list of all Hackathons, Jams and Competitions I attended and/or organized
 * Unnamed Internal Hackathon 02 2018 - Consulting
 * Unnamed Internal Hackathon 01 2018 - Consulting
 * Tomb Raider Jam Dec 2018 - (unfinished)
-* Unnamed Internal Hackathon 03 2018 - Consulting
+* Unnamed Hackathon Paderborn 2019 - Consulting
 * Apple & IBM Hackathon & Aperto - Organization

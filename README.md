@@ -1,6 +1,6 @@
 # HackathonList
 
-![Total Number](https://img.shields.io/badge/Total_number-121-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/icarustyler.svg?style=social&label=Follow)](https://twitter.com/IcarusTyler)
+![Total Number](https://img.shields.io/badge/Total_number-122-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/icarustyler.svg?style=social&label=Follow)](https://twitter.com/IcarusTyler)
 
 A list of all Hackathons, Jams and Competitions I attended and/or organized
 
@@ -65,6 +65,7 @@ A list of all Hackathons, Jams and Competitions I attended and/or organized
 * Berlin Mini Jam 2016 05 - (unfinished)
 * Berlin Ouya Jam 2013 - Strike Craft Copperhead
 * Deutscher Spielepreis 2012 - Badass Locomotive
+* S. Houlden's Monthly Game Thing 2012 (now defunct) - Badass Locomotive
 * Fuck This Jam 01 - Super Music Racer
 * Fuck This Jam 02 - (unfinished)
 * GGJ 2011 Bremen - Ourob-Nom-Rous

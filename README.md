@@ -1,6 +1,6 @@
 # HackathonList
 
-![Total Number](https://img.shields.io/badge/Total_number-122-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/matthias_code.svg?style=social&label=Follow)](https://twitter.com/matthias_code)
+![Total Number](https://img.shields.io/badge/Total_number-123-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/matthias_code.svg?style=social&label=Follow)](https://twitter.com/matthias_code)
 
 A list of all Hackathons, Jams and Competitions I attended and/or organized
 
@@ -63,6 +63,7 @@ A list of all Hackathons, Jams and Competitions I attended and/or organized
 * Berlin Mini Jam 2016 03 - (unfinished)
 * Berlin Mini Jam 2016 04 - Be Bruce Wayne
 * Berlin Mini Jam 2016 05 - (unfinished)
+* Berlin Mini Jam 2019 12 - Farmbuilder, DailyTask App
 * Berlin Ouya Jam 2013 - Strike Craft Copperhead
 * Deutscher Spielepreis 2012 - Badass Locomotive
 * S. Houlden's Monthly Game Thing 2012 (now defunct) - Badass Locomotive

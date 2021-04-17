@@ -1,8 +1,8 @@
 # HackathonList
 
-![Total Number](https://img.shields.io/badge/Total_number-123-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/matthias_code.svg?style=social&label=Follow)](https://twitter.com/matthias_code)
+![Total Number](https://img.shields.io/badge/Total_number-123-brightgreen.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/matthiaszarzecki/HackathonList/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/matthias_code.svg?style=social&label=Follow)](https://twitter.com/matthias_code) [![Youtube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCvMdsKesM05bIG0eq7M5z1g?style=social)](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1)
 
-A list of all Hackathons, Jams and Competitions I attended and/or organized
+A list of all Hackathons, Jams and Competitions I attended and/or organized.
 
 * 1 Game a Month - Balls Balls Balls
 * 1 Game a Month - Battlefleet Text Command
